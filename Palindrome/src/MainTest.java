@@ -13,7 +13,6 @@
 
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.jupiter.api.BeforeAll;
 import sun.jvm.hotspot.utilities.Assert;
 
 import static junit.framework.TestCase.assertFalse;
