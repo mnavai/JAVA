@@ -1,15 +1,3 @@
-//import org.junit.jupiter.api.Assertions;
-//import org.junit.jupiter.api.Test;
-//
-//public class MainTest {
-//
-//
-//    @Test
-//    void testMymethod(){
-//        Assertions.assertEquals("dede", "dede");
-//    }
-//}
-
 
 import org.junit.Before;
 import org.junit.Test;
